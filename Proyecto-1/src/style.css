@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    text-align: center;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+#titulo-principal {
+    color: white;
+}
+
+#texto-secundario {
+    color: white;
+}
+
+#miBoton {
+    font-family: "Pixelify Sans", sans-serif;
+    color: white;
+    background-color: #007bff;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#miBoton:hover {
+    background-color: #0056b3;
+}
